@@ -1,7 +1,5 @@
 # Week-1-Challenge
 
-Homework after the weeks lessson.
-
 # Challenge: WanderNote — Convert Divs to Semantic HTML
 
 ## Objective
